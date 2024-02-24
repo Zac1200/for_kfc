@@ -1,0 +1,133 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal; 
+    background: linear-gradient(81deg, #ddb35f, #7409c7);
+}
+
+.canteiner {
+    border-radius: 15px;
+    background-image: linear-gradient(to right, #E2BCBB, #E4514A);
+}
+
+h1 {
+    text-align: center ;
+}
+h2 {
+    text-align: center ;
+}
+
+img {
+    border-radius: 20px;
+    width: 250px;
+    
+}
+
+.aa1 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,aquamarine,dodgerblue );
+}
+.aa2 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(255, 127, 170),rgb(255, 30, 236) );
+}
+.aa3 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(144, 214, 255),rgb(121, 247, 83) );
+}
+.aa4 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(144, 214, 255),rgb(253, 3, 120) );
+}
+.aa5 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(3, 250, 168),rgb(253, 153, 3) );
+}
+.aa6 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(250, 3, 36),rgb(207, 253, 3) );
+}
+.aa7 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(131, 3, 250),rgb(253, 3, 190) );
+}
+.aa8 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(76, 253, 170),rgb(253, 103, 3) );
+}
+.aa9 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(255, 0, 0),rgb(248, 236, 72) );
+}
+.aa10 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(251, 255, 0),rgb(236, 4, 178) ); 
+}
+.aa11 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(255, 17, 0),rgb(4, 236, 197) ); 
+}
+.aa12 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(0, 255, 98),rgb(255, 0, 140) ); 
+}
+.aa13 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(76, 0, 255),rgb(238, 255, 0) ); 
+}
+.aa14 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(255, 0, 179),rgb(255, 0, 0) ); 
+}
+.aa15 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(229, 255, 0),rgb(212, 0, 255) ); 
+}
+.aa16 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(255, 153, 0),rgb(47, 0, 255) ); 
+}
+.aa17 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(255, 0, 0),rgb(0, 238, 255) ); 
+}
+.aa18 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(111, 0, 255),rgb(238, 255, 0) ); 
+}
+.aa19 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(111, 0, 255),rgb(9, 255, 0) );
+}
+.aa20 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(0, 255, 0),rgb(0, 247, 255) );
+}
+.aa21 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(255, 0, 106),rgb(238, 255, 0) );
+}
+.aa22 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(255, 0, 234),rgb(0, 255, 0) );
+}
+.aa23 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(71, 3, 66),rgb(255, 94, 0) );
+}
+.aa24 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(255, 152, 84),rgb(38, 0, 255) );
+}
+.aa25 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(255, 0, 0),rgb(145, 255, 0) );
+}
+.aa26 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(255, 0, 191),rgb(17, 0, 255) );
+}
+.aa27 {
+    border-radius: 12px;
+    background-image: linear-gradient(to right,rgb(51, 255, 0),rgb(0, 255, 179) );
+}
